@@ -1,0 +1,4 @@
+echo "<script type='text/javascript'> window.location.href='../modelo/facade.php?opc=123'; </script>";
+
+
+echo "<script type='text/javascript'> alert('Ya existe el registro'); history.back(); </script>";
